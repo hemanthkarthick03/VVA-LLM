@@ -2,7 +2,7 @@
 
 The Python Code allows the end-user to communicate with a desktop computer by voice and it also responds to the voice instructions given by the user. The assistant is designed in such a way that it takes the user input in the form of verbal commands, displays the input, processes it, and returns the output in various forms, like action to be performed or the verbal result is dictated to the end-user.
 
-![Voice Assistant](https://github.com/phoenix-mp3/virtual-voice-assistant-naruto/assets/128579996/ba880cbd-018d-43c2-8f9d-1a24470cff6a)
+![image](https://github.com/phoenix-mp3/VVA-LLM/assets/128579996/a2f02862-8afe-4fa1-b4ce-2ad11ee16cf0)
 
 Text to speech is a way of transforming a response to convey what was done if an action was taken or to show that it did not understand. Text to speech (TTS) has a variety of options. There are several non-AI alternatives available, like speech_recognition, gTTS, and much more.
 
