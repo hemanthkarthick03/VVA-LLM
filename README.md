@@ -1,4 +1,4 @@
-# Virtual Voice Assistant with Llama-LLM
+# AI-Powered Virtual Voice Assistant with Llama-LLM
 
 The Python Code allows the end-user to communicate with a desktop computer by voice and it also responds to the voice instructions given by the user. The assistant is designed in such a way that it takes the user input in the form of verbal commands, displays the input, processes it, and returns the output in various forms, like action to be performed or the verbal result is dictated to the end-user.
 
